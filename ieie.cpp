@@ -3,9 +3,9 @@
 using namespace std;
 
 int main(){
-    double  sum=0,n=2 ;
+    double  sum=0,n=6 ;
     
-    while(n<70){
+    while(n<20){
         sum=sum+(1/n);
         n=n+1;
     }
