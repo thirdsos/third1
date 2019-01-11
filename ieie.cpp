@@ -3,16 +3,15 @@
 using namespace std;
 
 int main(){
-    int n=1;
-    double  sum=0,n=1;
+    double  sum=0,n=2 ;
     
-    while(n!=70){
-        N=1.0/n;
-        sum=sum+N
-        n=n++;
-    }
-    cout<< sum;
+    while(n<70){
+        sum=sum+(1/n);
+        n=n+1;
+        
 
+    }
+    cout<< sum << endl;
     return 0;
 
 }
