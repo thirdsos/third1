@@ -10,9 +10,8 @@ int main(){
         N=1.0/n;
         sum=sum+N
         n=n++;
-    
-
     }
+    cout<< sum;
 
     return 0;
 
