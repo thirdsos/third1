@@ -9,7 +9,7 @@ int main(){
     while(n!=70){
         N=1/n;
         sum=sum+N
-        N=n++;
+        n=n++;
     
 
     }
