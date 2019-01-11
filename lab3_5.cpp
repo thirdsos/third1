@@ -15,12 +15,12 @@ int main(){
     count=0;
     while(count<N){
     if(count==0){
-        cout<< " ";
+        cout<< "text1  ";
     }
     
     else{
 
-        cout<< " ";
+        cout<< "text2  ";
     }
     
     count=count+1;
