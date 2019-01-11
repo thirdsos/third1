@@ -8,8 +8,6 @@ int main(){
     while(n<70){
         sum=sum+(1/n);
         n=n+1;
-        
-
     }
     cout<< sum << endl;
     return 0;
