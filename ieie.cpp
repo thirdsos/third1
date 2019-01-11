@@ -2,7 +2,18 @@
 
 using namespace std;
 
-int main() {
-    cout << "Hello";
+int main(){
+    int n=1;
+    double  sum=0,n=1;
+    
+    while(n!=70){
+        N=1/n;
+        sum=sum+N
+        N=n++;
+    
+
+    }
+
     return 0;
+
 }
